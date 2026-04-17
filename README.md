@@ -1,12 +1,9 @@
 # Olá, eu sou o Thales Iamamura! 👋
 
-Estudante de **Sistemas de Informação na USP (EACH)** e Membro Bolsista do **PET-SI**. Sou apaixonado por resolver problemas complexos através da tecnologia, com foco em desenvolvimento de software e análise de dados.
+Estudante de **Sistemas de Informação na USP (EACH)** e Membro Bolsista do **PET-SI**. Gosto de resolver problemas complexos através da tecnologia, com foco em desenvolvimento de software e análise de dados.
 
 ## 🚀 Sobre Mim
 - 🎓 Atualmente cursando Sistemas de Informação na Universidade de São Paulo.
-- 💡 Líder do projeto **COMPETEC**, onde coordeno o ensino de lógica e programação para alunos de ETECs.
-- 🏆 Organizador do **BXCOMP** (Campeonato de Programação para Calouros) e das **OWLficinas**.
-- 🌍 Inglês Fluente.
 
 ## 🛠️ Tecnologias e Ferramentas
 ### Linguagens e Banco de Dados
