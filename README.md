@@ -18,9 +18,6 @@ Estudante de **Sistemas de Informação na USP (EACH)** e Membro Bolsista do **P
 - ⚙️ Lógica de Baixo Nível e Algoritmos (C).
 - 📋 Gestão de Projetos e Levantamento de Requisitos.
 
-## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub de Thales](https://github-readme-stats.vercel.app/api?username=t-iamamura&show_icons=true&theme=radical)
-
-## ✉️ Contacto
+## ✉️ Contato
 - [LinkedIn](https://www.linkedin.com/in/thales-iamamura/)
 - [Email](mailto:t.iamamura01@gmail.com)
