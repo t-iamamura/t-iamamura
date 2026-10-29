@@ -16,7 +16,7 @@ Estudante de **Sistemas de Informação na USP (EACH)**. Gosto de resolver probl
 - 📊 Análise Estatística de Dados com Python.
 - ☕ Programação Orientada a Objetos (Java).
 - ⚙️ Lógica de Baixo Nível e Algoritmos (C).
-- 📋 Gestão de Projetos e Levantamento de Requisitos.
+- 📋 Gestão de Projetos.
 
 ## ✉️ Contato
 - [LinkedIn](https://www.linkedin.com/in/thales-iamamura/)
