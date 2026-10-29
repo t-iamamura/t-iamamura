@@ -1,6 +1,6 @@
 # Olá, eu sou o Thales Iamamura! 👋
 
-Estudante de **Sistemas de Informação na USP (EACH)** e Membro Bolsista do **PET-SI**. Gosto de resolver problemas complexos através da tecnologia, com foco em desenvolvimento de software e análise de dados.
+Estudante de **Sistemas de Informação na USP (EACH)**. Gosto de resolver problemas complexos através da tecnologia, com foco em desenvolvimento de software e análise de dados.
 
 ## 🚀 Sobre Mim
 - 🎓 Atualmente cursando Sistemas de Informação na Universidade de São Paulo.
